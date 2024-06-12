@@ -108,7 +108,7 @@ This package has files that contains the core functionality of generating ASCII 
 * If any of these conditions are met, the program prints a usage message and exits.
 
 
-## Authors
+## Author
 
 * [Benard Opiyo](https://learn.zone01kisumu.ke/git/beopiyo)
     
